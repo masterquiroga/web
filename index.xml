@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>http://example.org/index.xml</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 27 Jan 2017 23:38:02 -0600</lastBuildDate>
+    <atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>acerca</title>
+      <link>http://example.org/acerca/</link>
+      <pubDate>Fri, 27 Jan 2017 23:38:02 -0600</pubDate>
+      
+      <guid>http://example.org/acerca/</guid>
+      <description>
+
+&lt;h1 id=&#34;hola-mundo&#34;&gt;¡Hola mundo!&lt;/h1&gt;
+
+&lt;p&gt;¡Que gusto! Soy Master Quiroga, el netizen autor del blog.&lt;/p&gt;
+
+&lt;p&gt;Este sitio te trae contenido sobre tecnología y matemáticas en español durante mis viajes por el ciberespacio.&lt;/p&gt;
+
+&lt;p&gt;¿Buscas las últimos posts? ¡Ven aquí!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
